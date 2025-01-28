@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(0, 5%, 7%);
+}
+
+.social-link-profile{
+    max-width: 300px;
+    min-width: 250px;
+    text-align: center;
+    background-color: hsl(0, 4%, 10%);
+    margin: 10px auto;
+    color: white;
+    padding: 10px;
+    border-radius:  15px;
+}
+
+ img{
+    display: block;
+    width: 90px;
+    margin: 10px auto;
+    border-radius: 45px;        
+  }
+    
+
+
+a{
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+  background-color: hsl(0, 4%, 14%);
+  display: block;
+  margin: 20px auto;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+}
+
+
+
